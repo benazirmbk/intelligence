@@ -1,0 +1,51 @@
+.dataScience {
+	max-width: 100%;
+	background: #020a18;
+	padding: 8.125rem;
+
+	.container-fluid {
+		.apply {
+			max-width: 79.813rem;
+			height: 669px;
+			display: flex;
+			margin-right: 107px;
+			justify-content: center;
+
+			gap: 4.25rem;
+			img {
+			}
+			&__title {
+				margin-top: 170px;
+				width: 30.25rem;
+				height: 314px;
+
+				h3 {
+					width: 484px;
+					font-weight: 700;
+					font-size: 40px;
+					color: #ffffff;
+				}
+				p {
+					margin-top: 1.875rem;
+
+					font-weight: 600;
+					font-size: 16px;
+					color: #ffffff;
+				}
+				button {
+					padding: 15px 30px;
+					margin-top: 30px;
+					background: #3a68b8;
+					border: none;
+					border-radius: 5px;
+
+					font-weight: 600;
+					font-size: 16px;
+					line-height: 22px;
+
+					color: #ffffff;
+				}
+			}
+		}
+	}
+}
