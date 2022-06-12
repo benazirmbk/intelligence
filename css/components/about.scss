@@ -1,0 +1,20 @@
+.about {
+  margin-bottom: 40px;
+  .container {
+     display: flex;
+     gap: 80px;
+  }
+  &__info {
+     margin-top: 215px;
+     h2 {
+        margin-bottom: 40px;
+     }
+     p {
+        margin-bottom: 20px;
+     }
+  }
+
+  &__img {
+     margin-top: 170px;
+  }
+}

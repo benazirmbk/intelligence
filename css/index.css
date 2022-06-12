@@ -412,3 +412,25 @@ p {
   width: 15px;
   height: 15px;
 }
+
+.about {
+  margin-bottom: 40px;
+}
+.about .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 80px;
+}
+.about__info {
+  margin-top: 215px;
+}
+.about__info h2 {
+  margin-bottom: 40px;
+}
+.about__info p {
+  margin-bottom: 20px;
+}
+.about__img {
+  margin-top: 170px;
+}
